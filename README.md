@@ -59,8 +59,8 @@ The controller manages traffic signals and displays a countdown timer to indicat
 
 ## Project Files
 
-- `Schematic/Traffic Light Controller.sch` — Circuit diagrams  
-- `PCB Layout/Traffic Light Controller.brd` — PCB design layout  
+- `Schematic` — Circuit diagrams  
+- `PCB Layout` — PCB design layout  
 - `CAM Outputs/Gerber Files` — Manufacturing files for PCB fabrication  
 - `BOM` — Bill of Materials listing all components   
 - `Images` — Board photos and design previews  
