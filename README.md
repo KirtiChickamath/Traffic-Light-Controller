@@ -1,11 +1,13 @@
 # Traffic-Light-Controller
 Microcontroller-based traffic light controller PCB using ATmega328P, RGB LEDs, and a two-digit countdown timer with SSDs. Includes onboard 12V to 5V power regulation using LM7805. Designed as the final project for a PCB design course.
 
+
 ## Project Details
 
 **Project Name:** Traffic Light Controller
 
 **Software Used:** Eagle
+
 
 ## Project Description
 
@@ -19,11 +21,11 @@ Designed a microcontroller-based traffic signal controller PCB featuring:
 
 The controller manages traffic signals and displays a countdown timer to indicate the remaining time for each light.
 
+
 ## Block Diagram
 ![Final_Project_-_Block_Diagram](https://github.com/user-attachments/assets/17f82189-f017-4f70-8b54-64779510ad27)
-
-
 *Block diagram showing the overall system architecture*
+
 
 ## Schematic
 
@@ -31,16 +33,14 @@ The controller manages traffic signals and displays a countdown timer to indicat
 
 
 ## PCB Layout
+
 ![KC_Traffic Light Controller_Layout](https://github.com/user-attachments/assets/eabb891f-f094-4777-a9a1-f69b5c397141)
+
 
 ## Manufacturing Tab
 
 ![KC_Traffic Light Controller_manufacturing tab](https://github.com/user-attachments/assets/09c8fdb0-ba58-4d2f-a38a-a8e7ed7eaf6e)
 
-
-## Power Supply
-
-The circuit includes a power supply module that steps down a **12V DC input** to a regulated **5V DC output** using the **LM7805 voltage regulator**, ensuring a stable power source for the microcontroller and peripheral components.
 
 ## Features
 
@@ -56,6 +56,7 @@ The circuit includes a power supply module that steps down a **12V DC input** to
 - **Power Supply:** LM7805 voltage regulator (12V to 5V)
 - Component libraries provided by the course mentor
 
+
 ## Project Files
 
 - `Schematic/Traffic Light Controller.sch` — Circuit diagrams  
@@ -64,6 +65,7 @@ The circuit includes a power supply module that steps down a **12V DC input** to
 - `BOM` — Bill of Materials listing all components   
 - `Images` — Board photos and design previews  
 - `Libraries` — Libraries were provided by mentor
+
 
 ## Credits
 
