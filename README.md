@@ -5,7 +5,7 @@ Microcontroller-based traffic light controller PCB using ATmega328P, RGB LEDs, a
 
 **Project Name:** Traffic Light Controller
 
-**Software Used:**   Altium Designer
+**Software Used:** Eagle
 
 ## Project Description
 
